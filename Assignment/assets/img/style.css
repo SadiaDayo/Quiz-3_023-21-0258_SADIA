@@ -1,0 +1,12 @@
+
+.backgroundimage{
+background-image:url('./assets/img/form.png');
+background-size:cover;
+height: 90vh;
+color: white;
+}
+.backgroundimage1{
+background-image:url('./assets/img/Normal\ Sign\ Up.png');
+background-size:cover;
+height: 90vh;
+}
